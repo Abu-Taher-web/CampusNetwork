@@ -3,11 +3,11 @@
 This repository documents the implementation of a campus network topology that connects three main buildings: ICT Building, CSE Department, and Math Department. The project demonstrates network design, configuration, and testing using routers, servers, and workstations.
 
 ---
-## Video Demonstration
+## Video Demo
 
 <div align="center">
   <a href="https://youtu.be/uLn3TVJAxjs">
-    <img src="https://img.youtube.com/vi/uLn3TVJAxjs/0.jpg" alt="Watch the video" />
+    <img src="Main_Project_Campus_Networ_All_server_is_in_ICT_Building.png" alt="Watch the video" />
   </a>
 </div>
 
